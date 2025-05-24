@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1666.72 1525.51">
+  <defs>
+    <style>
+      .map__ground {
+        fill: #d7d7dc;
+      }
+
+      .map__outline {
+        stroke: #bbb;
+        stroke-width: 14px;
+      }
+
+      .map__outline, .room__outline{
+        fill: none;
+      }
+
+      .map__outline, .room__outline{
+        stroke-miterlimit: 10;
+      }
+
+     
+
+     .room__outline {
+        stroke: #000;
+      }
+
+      .room__outline{
+        stroke-width: 4px;
+      }
+
+    </style>
+  </defs>
+  <polygon class="map__ground" points="7 14.81 7 618.14 251.13 618.14 251.13 705.8 134.7 705.8 135.06 891.5 54.54 891.5 54.54 999.37 135.26 999.37 135.26 1118.14 135.26 1142 50.17 1334.85 448.59 1516.16 508.23 1376.2 476.82 1362.28 526.22 1141.46 1128.48 1141.46 1128.48 1247.47 1354.1 1247.47 1354.1 1146.32 1659.72 1146.32 1659.72 985.28 1488.71 985.28 1488.71 948.47 1340.74 948.47 1340.74 692.96 1066.93 692.96 1066.93 756.93 994.47 756.93 994.47 427.6 1065.99 427.6 1065.99 178.25 1090.45 178.25 1090.45 323.16 1131.97 323.16 1131.97 415.37 1192.07 415.37 1192.07 70.04 420.5 70.04 420.5 52.17 318.88 52.17 318.88 107.68 285.06 107.68 285.06 7 7 7 7 14.81"/>
+  <polygon class="room__outline" points="275.38 1132.91 500.97 1131.28 453.07 1354.41 225.84 1253.28 275.38 1132.91"/>
+  <polygon class="room__outline" points="208.28 1245.51 222.2 1214.54 194.36 1207.03 181.26 1233.23 208.28 1245.51"/>
+  <rect class="room__outline" x="285.05" y="1044.69" width="273.56" height="71.62"/>
+  <rect class="room__outline" x="558.6" y="1044.69" width="155.47" height="71.62"/>
+  <rect class="room__outline" x="285.06" y="781.47" width="423" height="72.58"/>
+  <rect class="room__outline" x="300.16" y="1350.33" width="89.48" height="90.99" transform="translate(612.95 -16.77) rotate(24.62)"/>
+  <rect class="room__outline" x="395.9" y="506.06" width="75.89" height="254.21"/>
+  <rect class="room__outline" x="553.73" y="506.06" width="78.11" height="257.05"/>
+  <rect class="room__outline" x="285.06" y="506.06" width="110.85" height="254.21"/>
+  <rect class="room__outline" x="913.98" y="508.43" width="72.43" height="256.58"/>
+  <rect class="room__outline" x="744.98" y="508.43" width="76.69" height="130.66"/>
+  <polygon class="room__outline" points="838.11 597.9 898.71 597.9 898.71 763.11 744.98 763.11 744.98 639.08 824.86 639.08 824.86 613.52 837.82 613.52 838.11 597.9"/>
+  <rect class="room__outline" x="275.78" y="162.74" width="71.58" height="194.53"/>
+  <rect class="room__outline" x="552.34" y="162.74" width="84.57" height="273.75"/>
+  <rect class="room__outline" x="438.71" y="78.74" width="268.48" height="39.64"/>
+  <rect class="room__outline" x="1140.7" y="174.48" width="42.69" height="232.35"/>
+  <rect class="room__outline" x="653.44" y="233.9" width="53.76" height="202.58"/>
+  <rect class="room__outline" x="728.52" y="162.74" width="76.41" height="273.75"/>
+  <rect class="room__outline" x="882.67" y="249.23" width="69.75" height="171.93"/>
+  <rect class="room__outline" x="988.41" y="251.01" width="68.63" height="170.15"/>
+  <rect class="room__outline" x="813.55" y="791.35" width="233.28" height="62.7"/>
+  <rect class="room__outline" x="729.04" y="876.26" width="68.77" height="240.05"/>
+  <rect class="room__outline" x="1506.91" y="1001.94" width="130.38" height="113.7"/>
+  <rect class="room__outline" x="1137.72" y="1136.35" width="207.36" height="102.19"/>
+  <rect class="room__outline" x="16.21" y="15.68" width="234.91" height="75.15"/>
+  <rect class="room__outline" x="16.21" y="117.17" width="234.91" height="48.49"/>
+  <rect class="room__outline" x="16.21" y="180.48" width="234.91" height="76.64"/>
+  <rect class="room__outline" x="16.21" y="360.11" width="234.91" height="80.32"/>
+  <rect class="room__outline" x="16.21" y="460.97" width="234.91" height="49.97"/>
+  <rect class="room__outline" x="16.21" y="525.75" width="234.91" height="83.39"/>
+  <rect class="room__outline" x="144.27" y="781.47" width="107.94" height="115.03"/>
+  <rect class="room__outline" x="144.27" y="994.4" width="107.94" height="117.94"/>
+  <rect class="room__outline" x="75.39" y="1270.7" width="220.66" height="110.41" transform="translate(577.11 45.54) rotate(24.97)"/>
+  <rect class="room__outline" x="398.81" y="1367.16" width="73.26" height="126.04" transform="translate(619.04 -53.5) rotate(23.99)"/>
+  <rect class="room__outline" x="1077.41" y="1001.94" width="399.24" height="113.7"/>
+  <rect class="room__outline" x="1131.97" y="791.35" width="198.58" height="173.36"/>
+  <rect class="room__outline" x="1077.41" y="703.88" width="253.14" height="70.87"/>
+  <rect class="room__outline" x="755.2" y="78.74" width="118.98" height="39.64"/>
+  <rect class="room__outline" x="917.55" y="78.74" width="267.11" height="39.64"/>
+  <rect class="room__outline" x="327.88" y="61.29" width="83.83" height="57.09"/>
+  <polygon class="map__outline" points="7 14.81 7 618.14 251.13 618.14 251.13 705.8 134.7 705.8 135.06 891.5 54.54 891.5 54.54 999.37 135.26 999.37 135.26 1118.14 135.26 1142 50.17 1334.85 448.59 1516.16 508.23 1376.2 476.82 1362.28 526.22 1141.46 1128.48 1141.46 1128.48 1247.47 1354.1 1247.47 1354.1 1141.31 1659.72 1141.31 1659.72 985.28 1488.71 985.28 1488.71 948.47 1340.74 948.47 1340.74 692.96 1066.93 692.96 1066.93 756.93 994.47 756.93 994.47 427.6 1065.99 427.6 1065.99 178.25 1090.45 178.25 1090.45 323.16 1131.97 323.16 1131.97 415.37 1192.07 415.37 1192.07 70.04 420.5 70.04 420.5 52.17 318.88 52.17 318.88 107.68 285.06 107.68 285.06 7 7 7 7 14.81"/>
+</svg>

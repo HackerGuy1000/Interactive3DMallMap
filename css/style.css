@@ -447,6 +447,13 @@ button:focus {
 	fill: #d7d7dc;
 }
 
+.test__path {
+	fill : none;
+	stroke: red;
+	stroke-miterlimit: 10;
+	stroke-width: 5px;
+}
+
 .map__outline {
 	-webkit-transition: fill 0.3s;
 	transition: fill 0.3s;

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1698.05 1548">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 32.29px;
+      }
+
+      .cls-2 {
+        stroke-width: 16px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M15.21,10.56l270.49-2.49-.59,103.71,55.35.59,2.02-52.39,80.96-.59v55h23.47v-36.51l766.06,7.7-2.13,317.78h-43.26l.47-88.78-42.55-.47v-149.82h-38.76l-3.91,259.94h-70.41v354.88h90.8v-73.84l269.9,5.57v191.55h16v29.04h-20.86v31.29h23.47v16.12h124.93v38.64h173.41v133.23h-216.08v10.79h-94.11v99.92h-208.97v-103.71h-634.26v42.79l-36.39,160.14-15.53,26.79,26.79,21.93-60.57,128.01-72.78-34.26-319.2-144.49,88.19-202.21v-19.8h-9.84v-118.29H58.94v-105.14h81.07v-194.63h124.58v-97.67H8.09L15.21,10.56Z"/>
+  <rect class="cls-3" x="23.7" y="116.57" width="242.79" height="48.97"/>
+  <rect class="cls-3" x="23.7" y="179.82" width="242.79" height="80.86"/>
+  <rect class="cls-3" x="23.7" y="17.23" width="242.79" height="80.86"/>
+  <text class="cls-1" transform="translate(102.76 230.87)"><tspan x="0" y="0">D 6-10</tspan></text>
+  <text class="cls-1" transform="translate(93.04 156.4)"><tspan x="0" y="0">D 11-12</tspan></text>
+  <text class="cls-1" transform="translate(112.7 73.48)"><tspan x="0" y="0">D 1-5</tspan></text>
+</svg>

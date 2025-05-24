@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2194.5 1677.9">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+        opacity: .5;
+      }
+
+      .cls-2 {
+        fill: #d7d7dc;
+      }
+
+      .cls-3 {
+        stroke: #bbb;
+        stroke-width: 14px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke: red;
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #000;
+      }
+
+      .cls-6, .cls-9 {
+        stroke-width: 4px;
+      }
+
+      .cls-7 {
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-8 {
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-9 {
+        stroke: #020202;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="350.9 163.8 350.9 767.1 595.1 767.1 595.1 854.8 478.6 854.8 479 1040.5 398.5 1040.5 398.5 1148.4 479.2 1148.4 479.2 1267.1 479.2 1291 394.1 1483.8 792.5 1665.1 852.2 1525.2 820.8 1511.3 870.1 1290.4 1472.4 1290.4 1472.4 1396.4 1698 1396.4 1698 1295.3 2003.7 1295.3 2003.7 1134.3 1832.6 1134.3 1832.6 1097.5 1684.7 1097.5 1684.7 841.9 1410.9 841.9 1410.9 905.9 1338.4 905.9 1338.4 576.6 1409.9 576.6 1409.9 327.2 1434.4 327.2 1434.4 472.1 1475.9 472.1 1475.9 564.4 1536 564.4 1536 219 764.4 219 764.4 201.1 662.8 201.1 662.8 256.7 629 256.7 629 156 350.9 156 350.9 163.8"/>
+  <image class="cls-1" width="1045" height="799" transform="scale(2.1)" xlink:href="../Syosset High School Map.jpeg"/>
+  <polygon class="cls-9" points="619.3 1281.9 844.9 1280.3 797 1503.4 569.8 1402.3 619.3 1281.9"/>
+  <polygon class="cls-9" points="552.2 1394.5 566.1 1363.5 538.3 1356 525.2 1382.2 552.2 1394.5"/>
+  <rect class="cls-6" x="629" y="1193.7" width="273.6" height="71.6"/>
+  <rect class="cls-6" x="902.5" y="1193.7" width="155.5" height="71.6"/>
+  <rect class="cls-6" x="629" y="930.5" width="423" height="72.6"/>
+  <rect class="cls-7" x="644.04" y="1500.03" width="91" height="89.5" transform="translate(-1002.07 1528.67) rotate(-65.4)"/>
+  <rect class="cls-6" x="739.8" y="655" width="75.9" height="254.2"/>
+  <rect class="cls-6" x="897.7" y="655" width="78.1" height="257.1"/>
+  <rect class="cls-6" x="629" y="655" width="110.8" height="254.2"/>
+  <rect class="cls-6" x="1257.9" y="657.4" width="72.4" height="256.6"/>
+  <rect class="cls-6" x="1088.9" y="657.4" width="76.7" height="130.7"/>
+  <polygon class="cls-6" points="1182 746.9 1242.6 746.9 1242.6 912.1 1088.9 912.1 1088.9 788.1 1168.8 788.1 1168.8 762.5 1181.7 762.5 1182 746.9"/>
+  <rect class="cls-6" x="619.7" y="311.7" width="71.6" height="194.5"/>
+  <rect class="cls-6" x="896.3" y="311.7" width="84.6" height="273.7"/>
+  <rect class="cls-6" x="782.6" y="227.7" width="268.5" height="39.6"/>
+  <rect class="cls-6" x="1484.6" y="323.5" width="42.7" height="232.3"/>
+  <rect class="cls-6" x="997.4" y="382.9" width="53.8" height="202.6"/>
+  <rect class="cls-6" x="1072.4" y="311.7" width="76.4" height="273.7"/>
+  <rect class="cls-6" x="1226.6" y="398.2" width="69.7" height="171.9"/>
+  <rect class="cls-6" x="1332.3" y="400" width="68.6" height="170.2"/>
+  <rect class="cls-6" x="1157.5" y="940.3" width="233.3" height="62.7"/>
+  <rect class="cls-6" x="1157.5" y="1025.2" width="68.8" height="240.1"/>
+  <rect class="cls-6" x="1850.8" y="1150.9" width="130.4" height="113.7"/>
+  <rect class="cls-6" x="1481.6" y="1285.3" width="207.4" height="102.2"/>
+  <rect class="cls-6" x="360.1" y="164.7" width="234.9" height="75.2"/>
+  <rect class="cls-6" x="360.1" y="266.2" width="234.9" height="48.5"/>
+  <rect class="cls-6" x="360.1" y="329.5" width="234.9" height="76.6"/>
+  <rect class="cls-6" x="360.1" y="509.1" width="234.9" height="80.3"/>
+  <rect class="cls-6" x="360.1" y="609.9" width="234.9" height="50"/>
+  <rect class="cls-6" x="360.1" y="674.7" width="234.9" height="83.4"/>
+  <rect class="cls-6" x="488.2" y="930.5" width="107.9" height="115"/>
+  <rect class="cls-6" x="488.2" y="1143.4" width="107.9" height="117.9"/>
+  <rect class="cls-5" x="473.62" y="1364.45" width="110.4" height="220.7" transform="translate(-1031.29 1330.79) rotate(-65)"/>
+  <rect class="cls-8" x="716.05" y="1542.44" width="126" height="73.3" transform="translate(-980.38 1648.51) rotate(-66)"/>
+  <rect class="cls-6" x="1421.3" y="1150.9" width="399.2" height="113.7"/>
+  <rect class="cls-6" x="1475.9" y="940.3" width="198.6" height="173.4"/>
+  <rect class="cls-6" x="1421.3" y="852.9" width="253.1" height="70.9"/>
+  <rect class="cls-6" x="1099.1" y="227.7" width="119" height="39.6"/>
+  <rect class="cls-6" x="1261.5" y="227.7" width="267.1" height="39.6"/>
+  <rect class="cls-6" x="671.8" y="210.3" width="83.8" height="57.1"/>
+  <polygon class="cls-3" points="350.9 163.8 350.9 767.1 595.1 767.1 595.1 854.8 478.6 854.8 479 1040.5 398.5 1040.5 398.5 1148.4 479.2 1148.4 479.2 1267.1 479.2 1291 394.1 1483.8 792.5 1665.1 852.2 1525.2 820.8 1511.3 870.1 1290.4 1472.4 1290.4 1472.4 1396.4 1698 1396.4 1698 1290.3 2003.7 1290.3 2003.7 1134.3 1832.6 1134.3 1832.6 1097.5 1684.7 1097.5 1684.7 841.9 1410.9 841.9 1410.9 905.9 1338.4 905.9 1338.4 576.6 1409.9 576.6 1409.9 327.2 1434.4 327.2 1434.4 472.1 1475.9 472.1 1475.9 564.4 1536 564.4 1536 219 764.4 219 764.4 201.1 662.8 201.1 662.8 256.7 629 256.7 629 156 350.9 156 350.9 163.8"/>
+  <polyline class="cls-4" points="1097.25 1265.3 1097.25 1222.97 609.72 1222.97 609.72 253.94 390.36 253.94"/>
+</svg>
